@@ -1,3 +1,1 @@
-export function intToRoman(arg: number | string) {
-  return arg;
-}
+export * from './numberToRoman';
